@@ -24,3 +24,20 @@ Pythonは、 `銀の弾丸` になりえません。Pythonでできること、�
 
 * 蛇じゃないよ...おっさんだよ...
 * Python公案（ `import this` ）
+
+### Pythonを自分のマシンで動かしてみよう！
+
+#### `Python` の基本的な組み込みデータ型
+
+* ブール型 (Boolean)
+* 整数型 (Int)
+* 浮動小数点数 (Float)
+* 文字列 (String)
+
+
+#### `Python` の頑固なデータ型と自由なデータ型
+
+* `mutable` なデータ型
+* `immutable` なデータ型
+
+#### `tuple型` 、 `list型` 、 `dict型` 、 `set型`
